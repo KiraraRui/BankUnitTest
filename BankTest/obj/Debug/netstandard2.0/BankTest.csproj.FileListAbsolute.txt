@@ -1,0 +1,16 @@
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\BankTest.deps.json
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\BankTest.dll
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\BankTest.pdb
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\BankUnitTest.exe
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\BankUnitTest.pdb
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\bin\Debug\netstandard2.0\BankUnitTest.exe.config
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\obj\Debug\netstandard2.0\BankTest.csprojAssemblyReference.cache
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\obj\Debug\netstandard2.0\BankTest.AssemblyInfoInputs.cache
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\obj\Debug\netstandard2.0\BankTest.AssemblyInfo.cs
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\obj\Debug\netstandard2.0\BankTest.csproj.CopyComplete
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\obj\Debug\netstandard2.0\BankTest.dll
+C:\Users\kirak\Source\repos\BankUnitTest\BankTest\obj\Debug\netstandard2.0\BankTest.pdb
